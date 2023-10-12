@@ -1,0 +1,1 @@
+{"error":{"codigo":"${header.CamelHttpResponseCode}","causa":"${header.CamelHttpResponseText}","mensaje":"${header.exception_message}"}}
